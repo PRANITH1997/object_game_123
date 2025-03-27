@@ -1,0 +1,12 @@
+opencv-python
+mediapipe
+numpy
+tensorflow
+pyttsx3
+opencv-python 
+mediapipe 
+pyautogui 
+selenium 
+webdriver-manager
+win32gui
+win32con
